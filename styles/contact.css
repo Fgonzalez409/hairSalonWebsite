@@ -141,3 +141,7 @@ ul > li > a:visited {
 p > a {
     color: #464646;
 }
+
+ul {
+    list-style: none;
+}

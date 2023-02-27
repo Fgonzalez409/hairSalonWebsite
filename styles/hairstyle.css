@@ -134,6 +134,14 @@ p {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:aliceblue;
+}
+
 /* #copyright {
     width: 400px;
     display: inline-flex;

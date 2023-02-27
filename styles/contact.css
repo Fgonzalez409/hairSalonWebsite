@@ -127,3 +127,11 @@ li > a {
     position: relative;
     left: 200px;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:aliceblue;
+}

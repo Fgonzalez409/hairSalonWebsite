@@ -157,3 +157,11 @@ li > a {
     left: 200px;
     /* margin-left: 250px; */
 }
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:aliceblue;
+}

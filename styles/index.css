@@ -242,3 +242,11 @@ p {
     line-height: 36px;
     font-weight: bold;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:aliceblue;
+}

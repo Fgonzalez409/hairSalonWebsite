@@ -160,6 +160,7 @@ li > a {
 
 a {
     text-decoration: none;
+    color: aliceblue;
 }
 
 a:visited {

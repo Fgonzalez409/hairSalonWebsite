@@ -130,8 +130,14 @@ li > a {
 
 a {
     text-decoration: none;
+    color: aliceblue;
+
 }
 
-a:visited {
+ul > li > a:visited {
     color:aliceblue;
+}
+
+p > a {
+    color: #464646;
 }

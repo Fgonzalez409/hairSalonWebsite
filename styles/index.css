@@ -251,3 +251,8 @@ a {
 a:visited {
     color:aliceblue;
 }
+/* i was going to write some code for mobile in @media but
+its a bit tough with all the position absolute. position: absolute should be used sparingly.
+it limits the ability for your site to be responsive. 
+the site looks great in desktop but in order to get it to work easily in mobile, desktop would need a rewrite.
+still great work though!  */
